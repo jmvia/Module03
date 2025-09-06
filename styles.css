@@ -27,7 +27,7 @@ aside {
     line-height: 1.5;
     float: right;              
     width: 220px;
-    border-right: 15px solid #332637; 
+    border-right: 15px solid #FF4858; 
    padding: 15px;
 
 }
@@ -70,9 +70,9 @@ article p {
 /* Green box */
 section {
     text-align: justify;
-    border: 3px solid green;
-    border-left: 30px solid green;  
-    background-color: #f8fff8;
+    border: 3px #1B7F79;
+    border-left: 30px #1B7F79;  
+    background-color:#72F2EB;
     padding: 10px;
     margin: 20px 40px;
     margin-right: 200px;
