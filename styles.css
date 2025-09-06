@@ -1,0 +1,96 @@
+body {
+    font-family: Georgia, "Times New Roman", serif;
+    margin: 10px;
+    padding: 10px;
+  background-image: url('WidgetCoLogo.gif'); 
+    background-repeat: no-repeat; 
+    background-size: 6in;      
+    background-position: center;  
+  
+   
+
+}
+/* Press Release*/
+header {
+    text-align: center;
+    font-variant: small-caps;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 3px;
+    
+}
+
+/* Press Contact*/
+aside {
+    font-size: 0.9em;
+    text-align: right;
+    line-height: 1.5;
+    float: right;              
+    width: 220px;
+    border-right: 15px solid #332637; 
+   padding: 15px;
+
+}
+
+h1 {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.8em;
+}
+
+h2 {
+    font-style: italic;
+    text-align: left;
+    font-size: 1.4em;
+    margin-left: 260p;
+    margin: 20px 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+h2 + article {
+    position: relative;
+    padding: 40px;
+    min-height: 300px;
+}
+
+
+/* Body*/
+article p {
+    text-align: justify;
+    margin: 20px 40px;
+    line-height: 1.5;
+    margin-right: 200px;  
+    padding-right: 20px;
+    padding-left: 20px;
+
+}
+
+/* Green box */
+section {
+    text-align: justify;
+    border: 3px solid green;
+    border-left: 30px solid green;  
+    background-color: #f8fff8;
+    padding: 10px;
+    margin: 20px 40px;
+    margin-right: 200px;
+    padding-left: 20px;
+}
+
+/* Footer */
+footer {
+    border-top: 1px solid #999;
+    color: lightslategray;
+    font-style: italic;
+    font-size: 0.8em;
+    text-align: right;
+    margin: 40px 40px 20px 40px;
+    padding-top: 5px;
+}
+
+footer a {
+    color: gray;
+}
+
